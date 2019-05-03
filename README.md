@@ -28,3 +28,5 @@ My intent was to help the users to induce a more positive mood.
 ## What is the intent behind your interaction?
 The interaction happens ones the user presses the trigger. It plays a song called “Scars to Your Beautiful” by Alessia Cara, which is a song about self-empowerment and acceptance. The radio moves up and down while this is playing. The walls also change color. When the trigger is pressed again, everything goes back to normal. I would like to add more songs to the environment that different interactions might be able to play. I also discovered the particle system and would like to play around with the idea of using it as sound waves for the music.
 I have so many ideas but had little time to implement them and it was really hard to figure out the coding system. What put me behind even more is that I wasn’t using the Carboard SDK but the Gvr SDK (not sure of the difference but nothing was working until I figured this out at the last minute.) However, I plan to keep working on this project indefinitely.
+
+__Source__: [Project 1](https://adrienneinvr.wordpress.com/2017/02/14/project-1/)
